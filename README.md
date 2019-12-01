@@ -14,6 +14,6 @@ Run `pip install fbchat`.
 
 Run `python draw.py`, it saves one name per line at `shuffle.txt`.
 
-## Send messages!
+## Send messages
 
 Run `python send.py`, it sends messages to your friends!
