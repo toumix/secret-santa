@@ -6,7 +6,7 @@ Run `pip install fbchat`.
 
 ## Find
 
-1) Save one name per line at `name.txt`.
+1) Save one name per line at `names.txt`.
 2) Enter your username and password at `login.py`.
 3) Run `python find.py`, it saves `user_ids.pickle`.
 
